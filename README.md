@@ -69,8 +69,8 @@ There are a lot of missing values in the dataset. So I made the following change
 
 Below are the few highlights of the EDA:
 
-![Plot 1](/cervical_cancer_analysis/violinplot.PNG)
-![Plot 2](/cervical_cancer_analysis/catplot.PNG)
+![](violinplot.PNG)
+![](catplot.PNG)
 
 ## Model Building
 
