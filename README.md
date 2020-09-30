@@ -91,7 +91,7 @@ So for this type of dataset multioutput regression was performed. The regression
   
 ## Model Evaluation
 
-For evaluating all the model I calculated the mean absolute error as it is the easiest to understand.
+For evaluating all the model I calculated the mean absolute error (MAE) as it is the easiest to understand.
 
 The K-nearest neighbour regression model far outperformed the other approaches on the test and validation sets.
 
