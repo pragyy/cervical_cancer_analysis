@@ -92,3 +92,10 @@ For evaluating all the model I calculated the mean absolute error as it is the e
 
 The K-nearest neighbour regression model far outperformed the other approaches on the test and validation sets.
 
+- Linear Regression: 0.138
+- Lasso Regression: 0.132
+- K nearest neighbour Regression: 0.118
+- Decision Trees Regression: 0.152
+- Random Forest Regression: 0.146
+- Direct Multioutput Regression: 0.166
+- Chained Multioutput Regression: 0.261
